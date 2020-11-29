@@ -25,7 +25,8 @@ body {
 .logo, .menu {
   display: inline-block;
 }
-.header {display: flex;
+.header {
+  display: flex;
   justify-content: space-between;
 }
 .logo {
