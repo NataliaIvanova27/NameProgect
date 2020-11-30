@@ -1,17 +1,10 @@
 [href] {
   font-family: Roboto;
 }
-p {
+p, button {
   font-family: Roboto;
 }
-button {
-  font-family: Roboto;
-}
-h1 {
-  font-family: PT+Serif:wght@700;
-  font-weight: bold;
-}
-div {
+h1, div {
   font-family: PT+Serif:wght@700;
   font-weight: bold;
 }
