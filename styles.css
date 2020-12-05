@@ -5,7 +5,8 @@ p, button {
   font-family: Roboto;
 }
 h1, div {
-  font-family: PT+Serif:wght@700;
+  font-family: 'PT+Serif';
+  font-weight: 700;
   font-weight: bold;
 }
 body {
@@ -19,11 +20,16 @@ body {
   display: inline-block;
 }
 .header {
+  padding: 40px 0;
   display: flex;
   justify-content: space-between;
 }
 .logo {
-  padding: 40px 0;
+  //padding: 40px 0;
+  //font: bold 24px/31px pt_serifbold;
+  width: 190px;
+  height: 36px;
+  background: url('img/logo.svg');
 }
 .menu {
   display: flex;
