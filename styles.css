@@ -17,7 +17,7 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 100px;
+  margin-bottom: 200px;
 }
 .logo {
   /*padding: 40px 0;
@@ -80,7 +80,7 @@ body {
   width: 100%;
 }
 .main{
-  padding: 0 63% 100px 0;
+  padding: 0 80% 200px 0;
     background: top right no-repeat url(img/mainimg.svg);
 }
 .main__title{
